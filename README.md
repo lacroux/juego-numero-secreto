@@ -9,9 +9,7 @@
 
 ¡Bienvenido al proyecto del **Juego del Número Secreto**! Esta es una aplicación interactiva desarrollada con JavaScript vainilla, HTML5 y CSS3, donde el usuario debe desafiar a la lógica intentando adivinar un número generado aleatoriamente por el sistema.
 
-https://lacroux.github.io/juego-numero-secreto/
-
----
+Enlace para desplegar juego: https://lacroux.github.io/juego-numero-secreto/
 
 ## 🚀 Características
 
